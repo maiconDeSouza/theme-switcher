@@ -14,7 +14,7 @@
 </p>
 
 <img 
-    src="https://github.com/maiconDeSouza/assets/blob/master/theme-switcher/rodando.mp4?raw=true"
+    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/theme-switcher/projetorodando.gif"
 />
 
 
