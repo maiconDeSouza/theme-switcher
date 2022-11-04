@@ -17,7 +17,13 @@
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/theme-switcher/projetorodando.gif"
 />
 
+<a href="https://theme-switcher.maiconsouza.com.br/" target="_blank">
+        Acesse este Projeto.
+    </a>
 
+<a href="https://portfolio.maiconsouza.com.br/" target="_blank">
+        Acesse meu Portfólio 
+    </a>
 
 
 <h3>Tecnologias utilizadas</h3>
